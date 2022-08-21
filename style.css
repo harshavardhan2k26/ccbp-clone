@@ -10,9 +10,10 @@
 .nav-bg {
     background-color: #152642;
     width:280px;  
-    margin: 20px;
+    margin: 3% 0;
     border-radius: 10px;
     padding: 10px;
+    height: 90vh;
 }
 .heading {
     color: #50d3eb;
